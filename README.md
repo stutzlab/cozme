@@ -1,2 +1,2 @@
 # cozme
-Peça na mesa e receba direto da cozinha
+order at the table, receive directly from kitchen
